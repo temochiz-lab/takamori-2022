@@ -1,1 +1,1 @@
-# 2022-takamori
+# takamori-2022
